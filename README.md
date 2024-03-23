@@ -1,4 +1,4 @@
-# House-Price-Prediction #
+# HOUSE-PRICE-PREDICTION #
 
 # Project Description
 
