@@ -18,6 +18,12 @@ attributes of Boston housing dataset then a part of dataset will be used to trai
 regression algorithm after that we will use the trained model to give predictions on
 remaining part of dataset.
 
+
+# High-Level Approach
+ -Exploring and analyzing the data used for making prediction
+ -Creating a simple model using linear regression
+ -Using the model to carryout prediction and evaluating it's efficiency
+
 # Prerequisite(s)
 Python, Basic statistics
 
